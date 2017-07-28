@@ -1,0 +1,23 @@
+{
+  "name": "expy",
+  "version": "1.0.0",
+  "description": "ExpressWay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiberJe/Expy.git"
+  },
+  "keywords": [
+    "ppt",
+    "node"
+  ],
+  "author": "JeLewine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiberJe/Expy/issues"
+  },
+  "homepage": "https://github.com/LiberJe/Expy#readme"
+}
